@@ -1,4 +1,4 @@
-# Dice Game 🎲
+# Dice Game 🎲  || https://bppatkar.github.io/jonas_pig_game/
 
 A simple, interactive two-player dice game built with JavaScript, HTML, and CSS. The objective of the game is to be the first player to reach 100 points. Players take turns rolling a dice and can choose to either "Hold" their score or risk losing their turn if they roll a `1`.
 
